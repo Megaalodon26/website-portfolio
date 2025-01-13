@@ -1,2 +1,2 @@
 # What is this project? 
-This is a web app to showcase my Python projects. 
+A website built in Python to my apps and projects I've made so far!
