@@ -17,7 +17,7 @@ with col2:
     st.info(content)
 
 content2 = """
-Below you can find some of the apps I've built with Python. Feel free to check them out and contact me!
+Below you can find some of the apps I've built with Python. Feel free to check them out!
 """
 st.write(content2)
 
