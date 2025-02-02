@@ -4,7 +4,7 @@ PDF Templates;A script that generates PDF templates of multiple pages given some
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/Megaalodon26/Excel-PDF-generator;4.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/Megaalodon26/weather-data-api;6.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/Megaalodon26/web-scraping-music-dates;8.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;10.png
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/Megaalodon26/webcam-detection.png
